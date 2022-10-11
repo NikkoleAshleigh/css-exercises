@@ -1,0 +1,12 @@
+.one_elem{
+    background-color: black;
+    color: white;
+}
+.two_elem{
+    background-color: yellow;
+}
+.one_elem,
+.two_elem{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
